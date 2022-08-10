@@ -1,8 +1,8 @@
-# Addon Name Mirror
+# Notepad Mirror
 
-This is a mirror of Author Name's Addon Name
+This is a mirror of DarkAtair's Notepad
 
-- [Curseforge URL](https://www.curseforge.com/wow/addons/addon-name)
+- [Curseforge URL](https://www.curseforge.com/wow/addons/notepad)
 
 ----
 
