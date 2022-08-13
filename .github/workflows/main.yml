@@ -30,7 +30,7 @@ jobs:
     - name: Run Main Script
       run: python main.py
       env:
-        ADDON_NAME: addon-name
+        ADDON_NAME: notepad
 
     - name: Get current time
       uses: srfrnk/current-time@master
